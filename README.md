@@ -1,19 +1,19 @@
-# magflash
+# MagniFlash
 
 Privacy Policy for MagFlash
 Last updated: 2/1/2024
 
 1. Introduction
    
-Welcome to MagFlash. This privacy policy outlines our policies and procedures regarding the collection, use, and disclosure of information through [Your App Name], and tells you about your privacy rights and how the law protects you.
+Welcome to MagniFlash. This privacy policy outlines our policies and procedures regarding the collection, use, and disclosure of information through MagniFlash, and tells you about your privacy rights and how the law protects you.
 
 2. No Data Collection
 
-MagFlash does not collect, use, store, share or transfer any personal data of our users. The app is designed to be used without any user data input.
+MagniFlash does not collect, use, store, share or transfer any personal data of our users. The app is designed to be used without any user data input.
 
 3. No Data Sharing
 
-Since MagFlash does not collect any personal data, there is no sharing of any personal data with any third parties.
+Since MagniFlash does not collect any personal data, there is no sharing of any personal data with any third parties.
 
 4. Security
 
